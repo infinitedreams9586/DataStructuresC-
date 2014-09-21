@@ -1,0 +1,5 @@
+/Users/me/Projects/QuickFind/QuickFind/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/me/Projects/QuickFind/QuickFind/bin/Debug/QuickFind.exe.mdb
+/Users/me/Projects/QuickFind/QuickFind/bin/Debug/QuickFind.exe
+/Users/me/Projects/QuickFind/QuickFind/obj/x86/Debug/QuickFind.exe
+/Users/me/Projects/QuickFind/QuickFind/obj/x86/Debug/QuickFind.exe.mdb

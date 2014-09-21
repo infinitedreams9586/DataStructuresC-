@@ -1,0 +1,5 @@
+/Users/me/Projects/QuickFind/QuickSort/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/me/Projects/QuickFind/QuickSort/bin/Debug/QuickSort.exe.mdb
+/Users/me/Projects/QuickFind/QuickSort/bin/Debug/QuickSort.exe
+/Users/me/Projects/QuickFind/QuickSort/obj/x86/Debug/QuickSort.exe
+/Users/me/Projects/QuickFind/QuickSort/obj/x86/Debug/QuickSort.exe.mdb

@@ -1,0 +1,5 @@
+/Users/me/Projects/QuickFind/WeightedQuickUnion/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/me/Projects/QuickFind/WeightedQuickUnion/bin/Debug/WeightedQuickUnion.exe.mdb
+/Users/me/Projects/QuickFind/WeightedQuickUnion/bin/Debug/WeightedQuickUnion.exe
+/Users/me/Projects/QuickFind/WeightedQuickUnion/obj/x86/Debug/WeightedQuickUnion.exe
+/Users/me/Projects/QuickFind/WeightedQuickUnion/obj/x86/Debug/WeightedQuickUnion.exe.mdb
