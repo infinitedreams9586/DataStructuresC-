@@ -27,12 +27,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinaryS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{6CE6EEEC-E240-425D-9E82-6BF407344069}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthFirstSearchGraph", "DepthFirstSearchGraph\DepthFirstSearchGraph.csproj", "{EC817CBF-1EF3-4504-A136-9FAA06109123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSort", "HeapSort\HeapSort.csproj", "{02CFF235-B60C-48CA-8A0F-EC1D8091188D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02CFF235-B60C-48CA-8A0F-EC1D8091188D}.Debug|x86.ActiveCfg = Debug|x86
+		{02CFF235-B60C-48CA-8A0F-EC1D8091188D}.Debug|x86.Build.0 = Debug|x86
+		{02CFF235-B60C-48CA-8A0F-EC1D8091188D}.Release|x86.ActiveCfg = Release|x86
+		{02CFF235-B60C-48CA-8A0F-EC1D8091188D}.Release|x86.Build.0 = Release|x86
 		{1BCC8F2B-2C66-44B6-A2EA-8EFC2E976A8D}.Debug|x86.ActiveCfg = Debug|x86
 		{1BCC8F2B-2C66-44B6-A2EA-8EFC2E976A8D}.Debug|x86.Build.0 = Debug|x86
 		{1BCC8F2B-2C66-44B6-A2EA-8EFC2E976A8D}.Release|x86.ActiveCfg = Release|x86
@@ -81,12 +89,16 @@ Global
 		{EB27ACD2-B354-4A48-A9D1-7F1AB2B88F02}.Debug|x86.Build.0 = Debug|x86
 		{EB27ACD2-B354-4A48-A9D1-7F1AB2B88F02}.Release|x86.ActiveCfg = Release|x86
 		{EB27ACD2-B354-4A48-A9D1-7F1AB2B88F02}.Release|x86.Build.0 = Release|x86
+		{EC817CBF-1EF3-4504-A136-9FAA06109123}.Debug|x86.ActiveCfg = Debug|x86
+		{EC817CBF-1EF3-4504-A136-9FAA06109123}.Debug|x86.Build.0 = Debug|x86
+		{EC817CBF-1EF3-4504-A136-9FAA06109123}.Release|x86.ActiveCfg = Release|x86
+		{EC817CBF-1EF3-4504-A136-9FAA06109123}.Release|x86.Build.0 = Release|x86
 		{F01A3686-CC45-4830-9E88-29021EE4C456}.Debug|x86.ActiveCfg = Debug|x86
 		{F01A3686-CC45-4830-9E88-29021EE4C456}.Debug|x86.Build.0 = Debug|x86
 		{F01A3686-CC45-4830-9E88-29021EE4C456}.Release|x86.ActiveCfg = Release|x86
 		{F01A3686-CC45-4830-9E88-29021EE4C456}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Graph\Graph.csproj
+		StartupItem = HeapSort\HeapSort.csproj
 	EndGlobalSection
 EndGlobal
